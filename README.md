@@ -52,7 +52,7 @@ rag_adobe/
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/HaroldLiuJ/RAG.git
 cd rag_adobe
 ```
 
